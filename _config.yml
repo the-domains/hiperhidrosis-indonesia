@@ -1,7 +1,7 @@
 name: Hiperhidrosis Indonesia
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.49633
+typography_spectrum: 0.9991
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#86d594'
-    - '#ffffff'
-    - '#000000'
-    - '#5f9267'
-    - '#4f4f4f'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#852e24'
+    - '#1d0000'
+    - '#f9f9f7'
+    - '#768135'
+    - '#395017'
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
