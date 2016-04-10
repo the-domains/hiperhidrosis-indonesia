@@ -1,7 +1,7 @@
 name: Hiperhidrosis Indonesia
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.9991
+layout_spectrum: 1
+typography_spectrum: 1
 title: 'Kendalikan Keringatmu, Kawan!'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#852e24'
-    - '#1d0000'
-    - '#f9f9f7'
-    - '#768135'
-    - '#395017'
-  brandStrength: 0
+    - '#050a04'
+    - '#2d541f'
+    - '#599032'
+    - '#aaca9b'
+    - '#d7e7dc'
+  brandStrength: 1
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
